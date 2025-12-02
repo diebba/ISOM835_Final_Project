@@ -51,13 +51,13 @@ This repository showcases my work as part of my graduate-level Predictive Analyt
 ## 🧪 Google Colab Notebooks
 
 👉 **Notebook 1: Exploratory Data Analysis (EDA)**  
-*(Add your link here)*
+https://colab.research.google.com/drive/1CfCrtcL5yymUl_UYBVdwMENEn5m43XJd#scrollTo=Tf7y5EVdMBHt
 
 👉 **Notebook 2: Data Cleaning & Preprocessing**  
-*(Add your link here)*
+https://colab.research.google.com/drive/11I91EA-Dpnn6TlCNWikgL13GaCTn-Nid
 
 👉 **Notebook 3: Model Development & Evaluation**  
-*(Add your link here)*
+https://colab.research.google.com/drive/11I91EA-Dpnn6TlCNWikgL13GaCTn-Nid
 
 ---
 
